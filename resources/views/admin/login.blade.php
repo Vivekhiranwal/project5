@@ -25,7 +25,7 @@
             </div>
         @endif
         <div class="container">
-            <h2 class="text-center">Login Form</h2>
+            <h2 class="text-center">Login Form form branch 2</h2>
             <div class="row d-flex justify-content-center">
                 <div class="col-md-6 border">
                     <form action="{{ route('login.store') }}" method="post">
